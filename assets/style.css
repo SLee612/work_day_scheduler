@@ -9,7 +9,9 @@ textarea{
   background: transparent;
   border: none;
   resize: none;
-  color: #000000;
+  font-size: 24px;
+  color: rebeccapurple;
+  text-shadow: 1px 1px 1px darkviolet;
   border-left: 1px solid teal;
   padding: 10px;
 }
